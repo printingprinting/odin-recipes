@@ -1,0 +1,15 @@
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+    background-color: grey;
+}
+
+.title {
+    color: #fff;
+    font-size: 38px;
+}
+
+.list a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
